@@ -31,6 +31,6 @@ modules:
   sources:
   - type: git
     url: https://gitlab.com/bit3/whatsappqt.git
-    tag: v1.0.1
-    commit: 743e0d17ceb5ed8d05775b8bb6f05f23830c4ad3
+    tag: v1.0.2
+    commit: 62ba68a4a3afe228e2605b402efb6fb64cd69316
 
